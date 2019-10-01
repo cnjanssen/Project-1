@@ -1,4 +1,5 @@
 #
+#version
 # READ THIS
 #   This tools is NOT coded with safety, efficiency, or elegance in mind. Use at your own risk. 
 #
